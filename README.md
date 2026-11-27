@@ -42,12 +42,7 @@ Sebanyak **1.527 dari 12.468 pengamatan live chat (12,25%)** belum memiliki juml
 | Berkas | Isi |
 | --- | --- |
 | Laporan EDA (DOCX) | Laporan UTS Bab 1–9 beserta tabel, visualisasi, dan lampiran kode. |
-| `Kode_Bab_3_EDA_VTuber.ipynb` | Pemuatan dan pemeriksaan struktur data. |
-| `Kode_Bab_4_EDA_VTuber.ipynb` | Pemeriksaan pola data hilang. |
-| `Kode_Bab_5_EDA_VTuber.ipynb` | Statistik deskriptif dan distribusi. |
-| `Kode_Bab_6_EDA_VTuber.ipynb` | Transformasi distribusi dan skala. |
-| `Kode_Bab_7_EDA_VTuber.ipynb` | Visualisasi hubungan dan korelasi. |
-| `Kode_Bab_8_EDA_VTuber.ipynb` | Deteksi pencilan dan uji sensitivitas. |
+| `EDAonVtuber.ipynb` | Pemuatan dan pemeriksaan struktur data. |
 
 ## Cara menjalankan di Google Colab
 
