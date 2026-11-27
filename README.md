@@ -1,6 +1,6 @@
 # Analisis Eksploratif Hubungan Jumlah Pengguna Unik Live Chat dengan Jumlah Super Chat pada Kanal VTuber di YouTube
 
-Proyek UTS mata kuliah **Data Science (PSIKS2W002)**. Analisis mencakup **Maret 2021–Juli 2022**, dengan satu pengamatan untuk setiap kombinasi kanal dan bulan.
+Proyek UTS mata kuliah **Data Science**. Analisis mencakup **Maret 2021–Juli 2022**, dengan satu pengamatan untuk setiap kombinasi kanal dan bulan.
 
 ## Pertanyaan penelitian
 
@@ -42,13 +42,13 @@ Sebanyak **1.527 dari 12.468 pengamatan live chat (12,25%)** belum memiliki juml
 | Berkas | Isi |
 | --- | --- |
 | Laporan EDA (DOCX) | Laporan UTS Bab 1–9 beserta tabel, visualisasi, dan lampiran kode. |
-| `EDAonVtuber.ipynb` | Pemuatan dan pemeriksaan struktur data. |
+| `EDAonVtuber.ipynb` | Code eksploratif data. |
 
 ## Cara menjalankan di Google Colab
 
 1. Unduh VTuber 1B Elements versi 7 dan ekstrak tiga CSV pada tabel dataset.
-2. Buka notebook yang ingin dijalankan di Google Colab. Untuk hasil utama, mulai dari `Kode_Bab_7_EDA_VTuber.ipynb`.
-3. Unggah ketiga CSV ke direktori kerja notebook, biasanya `/content`. Jika berkas ada di folder lain, sesuaikan nilai `folder` pada sel pemuatan data.
+2. Buka notebook yang ingin dijalankan di Google Colab. Untuk hasil utama, mulai dari `EDAonVtuber.ipynb`.
+3. Unggah ketiga CSV ke direktori kerja notebook, `/content` atau di kasus ini kita meletakan di 'content/drive/MyDrive/Colab-Notebooks/vTuber/vTuber1B'. Jika berkas ada di folder lain, sesuaikan nilai `folder` pada sel pemuatan data.
 4. Pilih **Runtime → Run all**. Cocokkan jumlah pasangan dan koefisien Spearman dengan bagian **Temuan utama**. Jalankan notebook Bab 8 untuk mengulang uji sensitivitas pencilan.
 
 ## Pengembangan lanjutan
